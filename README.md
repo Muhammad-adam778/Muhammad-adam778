@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning SASS
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 Linkedin Profile: https://www.linkedin.com/in/muhammad-78/
+- 📫 Linkedin Profile: https://www.linkedin.com/in/Muhammad-adam778/
